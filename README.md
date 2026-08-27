@@ -1,4 +1,4 @@
-# Hi, I'm Neshadi Hirunika Ranaweera 👋
+# Hi, I'm Neshadi Hirunika 👋
 
 **BSc Eng (Hons) in Computer Engineering** | University of Ruhuna  
 Full-Stack Developer & AI/ML Enthusiast
