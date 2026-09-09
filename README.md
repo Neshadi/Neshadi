@@ -3,7 +3,7 @@
 **BSc Eng (Hons) in Computer Engineering** | University of Ruhuna  
 Full-Stack Developer & AI/ML Enthusiast
 
-Former Software Engineer Intern at **Evolza Holdings** and **Inova IT Systems**
+Former Software Engineer Intern at **Inova IT Systems** and **Evolza Holdings**
 
 ---
 
