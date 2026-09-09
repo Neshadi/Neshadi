@@ -8,7 +8,7 @@ Former Software Engineer Intern at **Evolza Holdings** and **Inova IT Systems**
 ---
 
 ### About Me
-- 🔭 Currently working on **Reinforcement Learning** (Multi-Agent MAPPO for hospital resource optimization)
+- 🔭 Final Year Project **Reinforcement Learning** (Multi-Agent MAPPO for hospital resource optimization)
 - 🌱 Passionate about Full-Stack Development, AI/ML, and building scalable systems
 - 💼 Open to Software Engineering & AI/ML opportunities
 - ⚡ Fun fact: I love turning complex problems into clean, working solutions
