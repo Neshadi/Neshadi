@@ -1,6 +1,6 @@
 # Hi, I'm Neshadi Hirunika 👋
 
-**BSc Eng (Hons) in Computer Engineering** | University of Ruhuna  
+**BSc Eng (Hons) in Computer Engineering** | Faculty of Engineering | University of Ruhuna  
 Full-Stack Developer & AI/ML Enthusiast
 
 Former Software Engineer Intern at **Inova IT Systems** and **Evolza Holdings**
